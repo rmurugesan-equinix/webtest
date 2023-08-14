@@ -1,0 +1,14 @@
+<html>
+	<script src= "https://equinix--di6.sandbox.my.site.com/lightning/lightning.out.js"></script>
+	<div data-
+	<script>
+	 $Lightning.use("c:Site_test", function() {
+        $Lightning.createComponent("c:sitetest", { },
+                                   "LightningContainer",
+                                   function(cmp) {
+                                       component = cmp;
+                                       console.log('Component created');
+                                   });
+    },https://equinix--di6.sandbox.my.site.com/ );
+	</script>
+</html>
